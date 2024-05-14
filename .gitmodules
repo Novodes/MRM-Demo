@@ -1,0 +1,3 @@
+[submodule "MRM-Submodule-Demo"]
+	path = MRM-Submodule-Demo
+	url = https://github.com/Novodes/MRM-Submodule-Demo.git
